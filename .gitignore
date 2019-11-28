@@ -1,0 +1,7 @@
+venv
+.timer.lock
+server/configs.py
+
+*.pyc
+*.log
+.idea
