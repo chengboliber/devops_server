@@ -9,5 +9,5 @@ SQLAlchemy==1.2.7
 SQLAlchemy-Paginator==0.1
 voluptuous==0.11.1
 Werkzeug==0.14.1
-salt==2019.2.0
+salt==3003.5
 flask_migrate==2.5.2
